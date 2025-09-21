@@ -1,7 +1,3 @@
-#Intro to HPC
-
-###Resource: 
-https://epcced.github.io/hpc-intro/
 
 ##Initial Set-up
 My first recommendation would be to have linux installed. I already have UBUNTU 24.02 running on my laptop, so I will now directly move to installing some pre-requisite pacakges.
@@ -38,5 +34,4 @@ Run this code in your terminal
 
 - Only for plotting results, runtime logs, or CSV analysis
 - Not required for MPI/OpenMP coding in C/C++, but very useful for benchmarking
-
 
